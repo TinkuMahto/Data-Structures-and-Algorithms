@@ -34,6 +34,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 
 | # | Title | Solution |
 |---|-------|----------|
+| 2144 | Minimum Cost Of Buying Candies With Discount | [Java](2001-3000/2144_minimum_cost_of_buying_candies_with_discount.java) |
 
 [🔼 Back to Top](#leetcode-solutions-number-wise)
 
