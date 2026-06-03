@@ -21,6 +21,9 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 3 | Longest Substring Without Repeating Characters | [Java](0001-1000/0003_longest_substring_without_repeating_characters.java) |
 | 4 | Median Of Two Sorted Arrays | [Java](0001-1000/0004_median_of_two_sorted_arrays.java) |
 | 5 | Longest Palindromic Substring | [Java](0001-1000/0005_longest_palindromic_substring.java) |
+| 6 | Zigzag Conversion | [Java](0001-1000/0006_zigzag_conversion.java) |
+| 7 | Reverse Integer | [Java](0001-1000/0007_reverse_integer.java) |
+| 8 | String To Integer | [Java](0001-1000/0008_string_to_integer.java) |
 
 [🔼 Back to Top](#leetcode-solutions-number-wise)
 
