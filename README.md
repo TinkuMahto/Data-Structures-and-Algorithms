@@ -16,6 +16,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 
 | # | Title | Solution |
 |---|-------|----------|
+| 1 | Two Sum | [Java](0001-1000/0001_two_sum.java) |
 
 [🔼 Back to Top](#leetcode-solutions-number-wise)
 
