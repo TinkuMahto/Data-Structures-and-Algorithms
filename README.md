@@ -45,6 +45,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | # | Title | Solution |
 |---|-------|----------|
 | 3633 | Earliest Finish Time For Land And Water Rides I | [Java](3001-4000/3633_earliest_finish_time_for_land_and_water_rides_I.java) |
+| 3635 | Earliest Finish Time For Land And Water Rides Ii | [Java](3001-4000/3635_earliest_finish_time_for_land_and_water_rides_II.java) |
 
 [🔼 Back to Top](#leetcode-solutions-number-wise)
 
