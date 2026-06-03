@@ -19,6 +19,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 1 | Two Sum | [Java](0001-1000/0001_two_sum.java) |
 | 2 | Add Two Numbers | [Java](0001-1000/0002_add_two_numbers.java) |
 | 3 | Longest Substring Without Repeating Characters | [Java](0001-1000/0003_longest_substring_without_repeating_characters.java) |
+| 4 | Median Of Two Sorted Arrays | [Java](0001-1000/0004_median_of_two_sorted_arrays.java) |
 
 [🔼 Back to Top](#leetcode-solutions-number-wise)
 
