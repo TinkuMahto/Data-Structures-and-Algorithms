@@ -43,6 +43,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | # | Title | Solution |
 |---|-------|----------|
 | 2144 | Minimum Cost Of Buying Candies With Discount | [Java](2001-3000/2144_minimum_cost_of_buying_candies_with_discount.java) |
+| 2574 | Left And Right Sum Differences | [Java](2001-3000/2574_left_and_right_sum_differences.java) |
 
 [🔼 Back to Top](#leetcode-solutions-number-wise)
 
@@ -54,6 +55,8 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 |---|-------|----------|
 | 3633 | Earliest Finish Time For Land And Water Rides I | [Java](3001-4000/3633_earliest_finish_time_for_land_and_water_rides_I.java) |
 | 3635 | Earliest Finish Time For Land And Water Rides Ii | [Java](3001-4000/3635_earliest_finish_time_for_land_and_water_rides_II.java) |
+| 3751 | Total Waviness Of Numbers In Range I | [Java](3001-4000/3751_total_waviness_of_numbers_in_range_I.java) |
+| 3753 | Total Waviness Of Numbers In Range Ii | [Java](3001-4000/3753_total_waviness_of_numbers_in_range_II.java) |
 
 [🔼 Back to Top](#leetcode-solutions-number-wise)
 
