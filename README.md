@@ -43,6 +43,8 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | # | Title | Solution |
 |---|-------|----------|
 | 2144 | Minimum Cost Of Buying Candies With Discount | [Java](2001-3000/2144_minimum_cost_of_buying_candies_with_discount.java) |
+| 2161 | Partition Array According To Given Pivot | [Java](2001-3000/2161_partition_array_according_to_given_pivot.java) |
+| 2196 | Create Binary Tree From Descriptions | [Java](2001-3000/2196_create_binary_tree_from_descriptions.java) |
 | 2574 | Left And Right Sum Differences | [Java](2001-3000/2574_left_and_right_sum_differences.java) |
 
 [🔼 Back to Top](#leetcode-solutions-number-wise)
