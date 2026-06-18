@@ -33,6 +33,8 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 
 | # | Title | Solution |
 |---|-------|----------|
+| 1344 | Angle Between Hands Of A Clock | [Java](1001-2000/1344_angle_between_hands_of_a_clock.java) |
+| 1480 | Running Sum Of 1D Array | [Java](1001-2000/1480_running_sum_of_1d_array.java) |
 
 [🔼 Back to Top](#leetcode-solutions-number-wise)
 
@@ -57,9 +59,11 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 
 | # | Title | Solution |
 |---|-------|----------|
+| 3131 | Find The Integer Added To Array I | [Java](3001-4000/3131_find_the_integer_added_to_array_I.java) |
 | 3558 | Number Of Ways To Assign Edge Weights I | [Java](3001-4000/3558_number_of_ways_to_assign_edge_weights_i.java) |
 | 3559 | Number Of Ways To Assign Edges I I | [Java](3001-4000/3559_number_of_ways_to_assign_edges_I_I.java) |
 | 3612 | Process String With Special Operations I | [Java](3001-4000/3612_process_string_with_special_operations_I.java) |
+| 3614 | Process String With Special Operations I I | [Java](3001-4000/3614_process_string_with_special_operations_I_I.java) |
 | 3633 | Earliest Finish Time For Land And Water Rides I | [Java](3001-4000/3633_earliest_finish_time_for_land_and_water_rides_I.java) |
 | 3635 | Earliest Finish Time For Land And Water Rides Ii | [Java](3001-4000/3635_earliest_finish_time_for_land_and_water_rides_II.java) |
 | 3689 | Maximum Total Subarray Value I | [Java](3001-4000/3689_maximum_total_subarray_value_I.java) |
