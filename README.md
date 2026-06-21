@@ -35,6 +35,9 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 |---|-------|----------|
 | 1344 | Angle Between Hands Of A Clock | [Java](1001-2000/1344_angle_between_hands_of_a_clock.java) |
 | 1480 | Running Sum Of 1D Array | [Java](1001-2000/1480_running_sum_of_1d_array.java) |
+| 1732 | Find The Highest Altitude | [Java](1001-2000/1732_find_the_highest_altitude.java) |
+| 1833 | Maximum Ice Cream Bars | [Java](1001-2000/1833_maximum_ice_cream_bars.java) |
+| 1840 | Maximum Building Height | [Java](1001-2000/1840_maximum_building_height.java) |
 
 [🔼 Back to Top](#leetcode-solutions-number-wise)
 
@@ -71,6 +74,8 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 3751 | Total Waviness Of Numbers In Range I | [Java](3001-4000/3751_total_waviness_of_numbers_in_range_I.java) |
 | 3753 | Total Waviness Of Numbers In Range Ii | [Java](3001-4000/3753_total_waviness_of_numbers_in_range_II.java) |
 | 3838 | Weighted Word Mapping | [Java](3001-4000/3838_weighted_word_mapping.java) |
+| 3968 | Maximum Manhattan Distance After All Moves | [Java](3001-4000/3968_maximum_manhattan_distance_after_all_moves.java) |
+| 3969 | Valid Subarrays With Matching Sum Digits I | [Java](3001-4000/3969_valid_subarrays_with_matching_sum_digits_I.java) |
 
 [🔼 Back to Top](#leetcode-solutions-number-wise)
 
