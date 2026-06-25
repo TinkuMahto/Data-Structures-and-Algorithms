@@ -24,6 +24,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 6 | Zigzag Conversion | [Java](0001-1000/0006_zigzag_conversion.java) |
 | 7 | Reverse Integer | [Java](0001-1000/0007_reverse_integer.java) |
 | 8 | String To Integer | [Java](0001-1000/0008_string_to_integer.java) |
+| 15 | Three Sum | [Java](0001-1000/0015_three_sum.java) |
 
 [🔼 Back to Top](#leetcode-solutions-number-wise)
 
@@ -33,6 +34,8 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 
 | # | Title | Solution |
 |---|-------|----------|
+| 1160 | Find Words That Can Be Formed By Characters | [Java](1001-2000/1160_find_words_that_can_be_formed_by_characters.java) |
+| 1189 | Maximum Number Of Balloons | [Java](1001-2000/1189_maximum_number_of_balloons.java) |
 | 1344 | Angle Between Hands Of A Clock | [Java](1001-2000/1344_angle_between_hands_of_a_clock.java) |
 | 1480 | Running Sum Of 1D Array | [Java](1001-2000/1480_running_sum_of_1d_array.java) |
 | 1732 | Find The Highest Altitude | [Java](1001-2000/1732_find_the_highest_altitude.java) |
@@ -52,6 +55,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 2144 | Minimum Cost Of Buying Candies With Discount | [Java](2001-3000/2144_minimum_cost_of_buying_candies_with_discount.java) |
 | 2161 | Partition Array According To Given Pivot | [Java](2001-3000/2161_partition_array_according_to_given_pivot.java) |
 | 2196 | Create Binary Tree From Descriptions | [Java](2001-3000/2196_create_binary_tree_from_descriptions.java) |
+| 2287 | Rearrange Characters To Make Target String | [Java](2001-3000/2287_rearrange_characters_to_make_target_string.java) |
 | 2574 | Left And Right Sum Differences | [Java](2001-3000/2574_left_and_right_sum_differences.java) |
 
 [🔼 Back to Top](#leetcode-solutions-number-wise)
@@ -71,6 +75,8 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 3635 | Earliest Finish Time For Land And Water Rides Ii | [Java](3001-4000/3635_earliest_finish_time_for_land_and_water_rides_II.java) |
 | 3689 | Maximum Total Subarray Value I | [Java](3001-4000/3689_maximum_total_subarray_value_I.java) |
 | 3691 | Maximum Total Subarray Value I I | [Java](3001-4000/3691_maximum_total_subarray_value_I_I.java) |
+| 3699 | Number Of Zigzag Arrays I | [Java](3001-4000/3699_number_of_zigZag_arrays_I.java) |
+| 3737 | Count Subarrays With Majority Element I | [Java](3001-4000/3737_count_subarrays_with_majority_element_I.java) |
 | 3751 | Total Waviness Of Numbers In Range I | [Java](3001-4000/3751_total_waviness_of_numbers_in_range_I.java) |
 | 3753 | Total Waviness Of Numbers In Range Ii | [Java](3001-4000/3753_total_waviness_of_numbers_in_range_II.java) |
 | 3838 | Weighted Word Mapping | [Java](3001-4000/3838_weighted_word_mapping.java) |
