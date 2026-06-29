@@ -41,6 +41,8 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 1732 | Find The Highest Altitude | [Java](1001-2000/1732_find_the_highest_altitude.java) |
 | 1833 | Maximum Ice Cream Bars | [Java](1001-2000/1833_maximum_ice_cream_bars.java) |
 | 1840 | Maximum Building Height | [Java](1001-2000/1840_maximum_building_height.java) |
+| 1846 | Maximum Element After Decreasing And Rearranging | [Java](1001-2000/1846_maximum_element_after_decreasing_and_rearranging.java) |
+| 1967 | Number Of Strings That Appear As Substrings In Word | [Java](1001-2000/1967_number_of_strings_that_appear_as_substrings_in_word.java) |
 
 [🔼 Back to Top](#leetcode-solutions-number-wise)
 
@@ -66,6 +68,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 
 | # | Title | Solution |
 |---|-------|----------|
+| 3020 | Find The Maximum Number Of Elements In Subset | [Java](3001-4000/3020_find_the_maximum_number_of_elements_in_subset.java) |
 | 3131 | Find The Integer Added To Array I | [Java](3001-4000/3131_find_the_integer_added_to_array_I.java) |
 | 3558 | Number Of Ways To Assign Edge Weights I | [Java](3001-4000/3558_number_of_ways_to_assign_edge_weights_i.java) |
 | 3559 | Number Of Ways To Assign Edges I I | [Java](3001-4000/3559_number_of_ways_to_assign_edges_I_I.java) |
@@ -77,11 +80,13 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 3691 | Maximum Total Subarray Value I I | [Java](3001-4000/3691_maximum_total_subarray_value_I_I.java) |
 | 3699 | Number Of Zigzag Arrays I | [Java](3001-4000/3699_number_of_zigZag_arrays_I.java) |
 | 3737 | Count Subarrays With Majority Element I | [Java](3001-4000/3737_count_subarrays_with_majority_element_I.java) |
+| 3739 | Count Subarrays With Majority Element I I | [Java](3001-4000/3739_count_subarrays_with_majority_element_I_I.java) |
 | 3751 | Total Waviness Of Numbers In Range I | [Java](3001-4000/3751_total_waviness_of_numbers_in_range_I.java) |
 | 3753 | Total Waviness Of Numbers In Range Ii | [Java](3001-4000/3753_total_waviness_of_numbers_in_range_II.java) |
 | 3838 | Weighted Word Mapping | [Java](3001-4000/3838_weighted_word_mapping.java) |
 | 3968 | Maximum Manhattan Distance After All Moves | [Java](3001-4000/3968_maximum_manhattan_distance_after_all_moves.java) |
 | 3969 | Valid Subarrays With Matching Sum Digits I | [Java](3001-4000/3969_valid_subarrays_with_matching_sum_digits_I.java) |
+| 3974 | Maximum Total Sum Of K Selectted Elements | [Java](3001-4000/3974_maximum_total_sum_of_k_selectted_elements.java) |
 
 [🔼 Back to Top](#leetcode-solutions-number-wise)
 
