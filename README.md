@@ -25,6 +25,9 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 7 | Reverse Integer | [Java](0001-1000/0007_reverse_integer.java) |
 | 8 | String To Integer | [Java](0001-1000/0008_string_to_integer.java) |
 | 15 | Three Sum | [Java](0001-1000/0015_three_sum.java) |
+| 53 | Maximum Subarray | [Java](0001-1000/0053_maximum_subarray.java) |
+| 152 | Maximum Product Subarray | [Java](0001-1000/0152_maximum_product_subarray.java) |
+| 918 | Maximum Sum Circular Subarray | [Java](0001-1000/0918_maximum_sum_circular_subarray.java) |
 
 [🔼 Back to Top](#leetcode-solutions-number-wise)
 
@@ -35,8 +38,10 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | # | Title | Solution |
 |---|-------|----------|
 | 1160 | Find Words That Can Be Formed By Characters | [Java](1001-2000/1160_find_words_that_can_be_formed_by_characters.java) |
+| 1186 | Maximum Subarray Sum With One Deletion | [Java](1001-2000/1186_maximum_subarray_sum_with_one_deletion.java) |
 | 1189 | Maximum Number Of Balloons | [Java](1001-2000/1189_maximum_number_of_balloons.java) |
 | 1344 | Angle Between Hands Of A Clock | [Java](1001-2000/1344_angle_between_hands_of_a_clock.java) |
+| 1358 | Number Of Substrings Containing All Three Characters | [Java](1001-2000/1358_Number_of_substrings_containing_all_three_characters.java) |
 | 1480 | Running Sum Of 1D Array | [Java](1001-2000/1480_running_sum_of_1d_array.java) |
 | 1732 | Find The Highest Altitude | [Java](1001-2000/1732_find_the_highest_altitude.java) |
 | 1833 | Maximum Ice Cream Bars | [Java](1001-2000/1833_maximum_ice_cream_bars.java) |
@@ -59,6 +64,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 2196 | Create Binary Tree From Descriptions | [Java](2001-3000/2196_create_binary_tree_from_descriptions.java) |
 | 2287 | Rearrange Characters To Make Target String | [Java](2001-3000/2287_rearrange_characters_to_make_target_string.java) |
 | 2574 | Left And Right Sum Differences | [Java](2001-3000/2574_left_and_right_sum_differences.java) |
+| 2812 | Find The Safest Path In A Grid | [Java](2001-3000/2812_find_the_safest_path_in_a_grid.java) |
 
 [🔼 Back to Top](#leetcode-solutions-number-wise)
 
@@ -70,6 +76,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 |---|-------|----------|
 | 3020 | Find The Maximum Number Of Elements In Subset | [Java](3001-4000/3020_find_the_maximum_number_of_elements_in_subset.java) |
 | 3131 | Find The Integer Added To Array I | [Java](3001-4000/3131_find_the_integer_added_to_array_I.java) |
+| 3286 | Find A Safe Walk Through A Grid | [Java](3001-4000/3286_find_a_safe_walk_through_a_grid.java) |
 | 3558 | Number Of Ways To Assign Edge Weights I | [Java](3001-4000/3558_number_of_ways_to_assign_edge_weights_i.java) |
 | 3559 | Number Of Ways To Assign Edges I I | [Java](3001-4000/3559_number_of_ways_to_assign_edges_I_I.java) |
 | 3612 | Process String With Special Operations I | [Java](3001-4000/3612_process_string_with_special_operations_I.java) |
