@@ -9,6 +9,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 - [1001-2000](#1001-2000)
 - [2001-3000](#2001-3000)
 - [3001-4000](#3001-4000)
+- [4001-5000](#4001-5000)
 
 ---
 
@@ -73,6 +74,8 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 2574 | Left And Right Sum Differences | [Java](2001-3000/2574_left_and_right_sum_differences.java) |
 | 2685 | Count The Number Of Complete Components | [Java](2001-3000/2685_count_the_number_of_complete_components.java) |
 | 2812 | Find The Safest Path In A Grid | [Java](2001-3000/2812_find_the_safest_path_in_a_grid.java) |
+| 2958 | Length Of Longest Subarray With At Most K Frequency | [Java](2001-3000/2958_length_of_longest_subarray_with_at_most_k_frequency.java) |
+| 2996 | Smallest Missing Integer Greater Than Sequential Prefix Sum | [Java](2001-3000/2996_smallest_missing_integer_greater_than_sequential_prefix_sum.java) |
 
 [🔼 Back to Top](#leetcode-solutions-number-wise)
 
@@ -85,6 +88,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 3020 | Find The Maximum Number Of Elements In Subset | [Java](3001-4000/3020_find_the_maximum_number_of_elements_in_subset.java) |
 | 3131 | Find The Integer Added To Array I | [Java](3001-4000/3131_find_the_integer_added_to_array_I.java) |
 | 3286 | Find A Safe Walk Through A Grid | [Java](3001-4000/3286_find_a_safe_walk_through_a_grid.java) |
+| 3302 | Find The Lexicographically Smallest Valid Sequence | [Java](3001-4000/3302_find_the_lexicographically_smallest_valid_sequence.java) |
 | 3312 | Sorted Gcd Pair Queries | [Java](3001-4000/3312_sorted_gcd_pair_queries.java) |
 | 3336 | Find The Number Of Subsequences With Equal Gcd | [Java](3001-4000/3336_find_the_number_of_subsequences_with_equal_gcd.java) |
 | 3432 | Path Existence Queries In A Graph I | [Java](3001-4000/3432_path_existence_queries_in_a_graph_i.java) |
@@ -113,6 +117,15 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 3992 | Rearrange String To Avoid Character Pair | [Java](3001-4000/3992_rearrange_string_to_Avoid_character_pair.java) |
 | 3993 | Maximum Value Of An Alternating Sequence | [Java](3001-4000/3993_maximum_value_of_an_alternating_sequence.java) |
 | 3994 | Minimum Adjacent Swaps To Partition Array | [Java](3001-4000/3994_minimum_adjacent_swaps_to_partition_array.java) |
+
+[🔼 Back to Top](#leetcode-solutions-number-wise)
+
+---
+
+## 4001-5000
+
+| # | Title | Solution |
+|---|-------|----------|
 
 [🔼 Back to Top](#leetcode-solutions-number-wise)
 
