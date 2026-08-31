@@ -65,7 +65,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 
 | # | Title | Solution |
 |---|-------|----------|
-| 2058 | Find  The Minimum And Maximum Number Of Nodes Between Critical Points | [Java](2001-3000/2058_find _the_minimum_and_maximum_number_of_nodes_between_critical_points.java) |
+| 2058 | Find The Minimum And Maximum Number Of Nodes Between Critical Points | [Java](2001-3000/2058_find_the_minimum_and_maximum_number_of_nodes_between_critical_points.java) |
 | 2091 | Removing Minimum And Maximum From Array | [Java](2001-3000/2091_removing_minimum_and_maximum_from_array.java) |
 | 2095 | Delete The Middle Node Of A Linked List | [Java](2001-3000/2095_delete_the_middle_node_of_a_linked_list.java) |
 | 2130 | Maximum Twin Sum Of A Linked List | [Java](2001-3000/2130_maximum_twin_sum_of_a_linked_list.java) |
