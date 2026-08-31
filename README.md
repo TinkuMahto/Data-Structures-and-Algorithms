@@ -65,11 +65,14 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 
 | # | Title | Solution |
 |---|-------|----------|
+| 2058 | Find  The Minimum And Maximum Number Of Nodes Between Critical Points | [Java](2001-3000/2058_find _the_minimum_and_maximum_number_of_nodes_between_critical_points.java) |
+| 2091 | Removing Minimum And Maximum From Array | [Java](2001-3000/2091_removing_minimum_and_maximum_from_array.java) |
 | 2095 | Delete The Middle Node Of A Linked List | [Java](2001-3000/2095_delete_the_middle_node_of_a_linked_list.java) |
 | 2130 | Maximum Twin Sum Of A Linked List | [Java](2001-3000/2130_maximum_twin_sum_of_a_linked_list.java) |
 | 2144 | Minimum Cost Of Buying Candies With Discount | [Java](2001-3000/2144_minimum_cost_of_buying_candies_with_discount.java) |
 | 2161 | Partition Array According To Given Pivot | [Java](2001-3000/2161_partition_array_according_to_given_pivot.java) |
 | 2196 | Create Binary Tree From Descriptions | [Java](2001-3000/2196_create_binary_tree_from_descriptions.java) |
+| 2213 | Longest Substring Of One Reapeating Character | [Java](2001-3000/2213_longest_substring_of_one_reapeating_character.java) |
 | 2287 | Rearrange Characters To Make Target String | [Java](2001-3000/2287_rearrange_characters_to_make_target_string.java) |
 | 2574 | Left And Right Sum Differences | [Java](2001-3000/2574_left_and_right_sum_differences.java) |
 | 2685 | Count The Number Of Complete Components | [Java](2001-3000/2685_count_the_number_of_complete_components.java) |
